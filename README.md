@@ -12,6 +12,6 @@ Key Highlights:
 
 - Implemented a discrete Kalman Filter for real-time state estimation
 
-Visualized state trajectories, estimation error, and 3σ confidence bounds
+- Visualized state trajectories, estimation error, and 3σ confidence bounds
 
 - Demonstrated significant accuracy improvements over raw noisy measurements
